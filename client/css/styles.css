@@ -63,14 +63,10 @@ body {
   padding: 3px;
 }
 
-.home-body  {
-  display: flex;
-  align-items: baseline;
+.main-pic {
+  margin-top: 20% !important;
 }
 
-.home-body >  .col-xs-6 {
-    margin: auto;
-  }
 
 .table-agenda td,
 .table-agenda th {
@@ -230,9 +226,6 @@ canvas {
   margin-top: 80px;
 }
 @media (max-width: 1921px) {
-  .main-pic {
-    margin-top: 20% !important;
-  }
 }
 @media (max-width: 991px) {
   #sidebar {
