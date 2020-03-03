@@ -5,7 +5,7 @@
   },
   "mongoDB": {
     "host": "localhost",
-    "database": "trio-rsh",
+    "database": "swing-family",
     "name": "mongoDB",
     "connector": "mongodb"
   },

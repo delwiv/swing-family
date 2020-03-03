@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "canto",
+      "name": "swing-family",
       "script": "./server/server.js",
       "watch": ["./server", "./client", "./common"],
       "instances": 1,
